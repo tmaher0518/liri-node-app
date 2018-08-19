@@ -1,7 +1,7 @@
 # liri-node-app
 # LiriBot
 
-LIRI is a Language Interpretation and Recognition Interface. LIRI is a command line node application that accepts parameter inputs and then outputs data to the user's terminal/bash window.
+LIRI is a Language Interpretation and Recognition Interface. LIRI is a command line node application that accepts parameter inputs and then outputs data to the user's terminal/bash window. 
 
 # Technologies 
 
@@ -32,3 +32,4 @@ When user inputs `node liri.js movie-this '<movie name here>'` liri outputs the 
 * Plot of the movie.
 * Actors in the movie.
 
+The app can also read input from a .txt file and saves all searches to a log.txt file.
